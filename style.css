@@ -1,0 +1,33 @@
+header {
+Background-color:Grey;
+}
+.Links {
+color:whitesmoke;
+font-size:20px;
+Margin:10px;
+}
+h1 {
+text-align:center;
+color:grey;
+font-size:50px;
+font-family:arial;
+}
+h2 {
+font-family:arial;
+color:#a9accc;
+}
+p {
+font-size:25px;
+color:grey;
+font-family:arial;
+}
+i {
+color:blue;
+}
+body {
+ Background-color:#c7b8b7;
+}
+.margin {
+Padding:20px;
+color:blue;
+}
